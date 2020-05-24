@@ -19,4 +19,14 @@ def prompt():
 
     return user_guess
 
-    print(promt())
+def game()
+coin_toss = toss_coin()
+guess = prompt()
+
+if guess == coin_toss:
+    print("You win!")
+
+else
+print("You lost!")
+
+game()
